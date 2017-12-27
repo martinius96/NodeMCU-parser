@@ -1,3 +1,9 @@
+// Author: Martin Chlebovec alias: martinius96
+// Support: https://www.paypal.me/Chlebovec
+// Personal web: https://arduino.php5.sk
+// Email contact: martinius96@gmail.com
+// Facebook contact: 100001242570317
+// Use under license!
 #include <ESP8266WiFi.h> //libraries included at Arduino Core!!
 #include <WiFiClientSecure.h> //libraries included at Arduino Core!!
 const char* ssid = "mywifiname";
